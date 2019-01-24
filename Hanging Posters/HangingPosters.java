@@ -15,11 +15,7 @@ class Result {
     /*
      * Complete the 'solve' function below.
      *
-     * The function is expected to return an INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER h
-     *  2. INTEGER_ARRAY wallPoints
-     *  3. INTEGER_ARRAY lengths
+     * Abhimanoj Yadav 24/01/2019
      */
 
     public static int solve(int h, List<Integer> wallPoints, List<Integer> lengths) {
