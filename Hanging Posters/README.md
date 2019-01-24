@@ -1,1 +1,1 @@
-[[https://www.socioladder.com/assets/images/logo-wide.png|alt=octocat]]
+![Hanging Posters](https://www.socioladder.com/assets/images/logo-wide.png)
